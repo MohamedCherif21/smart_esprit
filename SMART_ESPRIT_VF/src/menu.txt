@@ -1,0 +1,2 @@
+08 fdffdfd fdfdfd Diner 3545 1 fruit NULL
+00 fdfdfd fdfdfd Diner fdfddf 1 boisson entree 
